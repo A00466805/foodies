@@ -1,0 +1,4 @@
+#A00466845
+Public int min(int a, int b) {
+return Math.min(a,b);
+}
