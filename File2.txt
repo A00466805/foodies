@@ -2,3 +2,7 @@
 public int mod(int a, int b){
 return a%b;
 }
+#A00452621
+Public int Division (int a, int b) {
+return a/b;
+}
