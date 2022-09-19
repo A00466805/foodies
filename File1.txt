@@ -2,3 +2,13 @@
 Public int multi(int a, int b) {
 return a*b;
 }
+
+#A00466805 Shreerag Krishnakumar Marar
+public int subtract(int a, int b){
+return a-b;
+}
+
+#A00452621
+Public int addition (int a, int b) {
+return a+b;
+}
