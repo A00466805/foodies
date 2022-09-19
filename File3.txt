@@ -1,4 +1,4 @@
-#A00466845
+#A00466845 Rashad
 Public int power(int a, int b) {
 return Math.pow(a,b);
 }
